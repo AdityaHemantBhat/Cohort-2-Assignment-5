@@ -97,6 +97,7 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     text-align: left;
+    line-height: 1.5;
 }
 .info h3{
     color: #4842c1;
